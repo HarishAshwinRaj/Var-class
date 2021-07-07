@@ -1,14 +1,15 @@
-# Var library
+# Var 
 hello guys !!
-
+I am a student and I did this as a mini project.\
 I have tried to implement a single libary which 
 can hold any of these three basic data types in cpp .\
-I thought it  would give us an easy and handy tool to perform basic operations.\
-I got this idea from `Var` keyword in `javascript`.
+
 - int
 - double 
 - string
 
+I thought it  would give us an easy and handy tool to perform basic operations.\
+I got this idea from `Var` keyword in `javascript`
 
 I still am a student. So, some of my implementation may not be up to all use cases.\
 so do a little research before you use. \
